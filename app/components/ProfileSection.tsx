@@ -6,7 +6,7 @@ const ProfileSection = () => {
 			<div className="space-y-8 text-center">
 				<div className="relative w-28 md:w-40 h-28 md:h-40 mx-auto">
 					<div className="relative w-full h-full rounded-full overflow-hidden ring-2 ring-gray-200 dark:ring-gray-700">
-						<Image src="/IMG_2998 2 (1).JPG" alt="Profile" fill className="object-cover" priority />
+						<Image src="/pfp.jpg" alt="Profile" fill className="object-cover" priority />
 					</div>
 				</div>
 
@@ -51,7 +51,7 @@ const ProfileSection = () => {
 							</svg>
 						</a>
 						<a
-							href="https://linkedin.com/tiffany-zhan22"
+							href="https://www.linkedin.com/in/tiffany-zhan22/"
 							target="_blank"
 							rel="noopener noreferrer"
 							className="p-2 text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white"
