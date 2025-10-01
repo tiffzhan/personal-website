@@ -40,7 +40,6 @@ const PublicationsSection = () => {
 
 									{/* Authors + Venue */}
 									<p className="text-sm font-medium text-gray-600 dark:text-gray-300">{pub.authors}</p>
-									<p className="text-sm italic text-gray-500 dark:text-gray-400">{pub.venue}</p>
 
 									{/* Summary */}
 									<p className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed">{pub.summary}</p>
