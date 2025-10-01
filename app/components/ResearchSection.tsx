@@ -3,14 +3,13 @@ const PublicationsSection = () => {
 		{
 			title: 'A Geometric Lens on LLM Abilities through Joint Embedding Item Response Theory',
 			authors: 'L. Yao, N. Jarvis, T. Zhan, S. Ghosh, L. Liu, T. Jiang',
-			status: 'In Progress',
+			status: 'Submitted',
 			summary:
 				'We present JE-IRT: a geo-metric item-response framework that embeds both LLMs and questions in a shared space.',
 		},
 		{
 			title: 'Sycophancy Is Not One Thing: Causal Separation of Sycophantic Behaviors in LLMs',
 			authors: 'D. Venemeyer, P. Duong, T. Zhan, T. Jiang',
-			venue: 'Air Force Research Labs',
 			status: 'Submitted',
 			summary:
 				'In this paper we show that: (1) sycophantic agreement, genuine agreement, and sycophantic praise are encoded along distinct linear directions in latent space; (2) each behavior can be independently amplified or suppressed without affecting the others; and (3) their representational structure is consistent across model families and scales.',
